@@ -56,4 +56,5 @@ Customer Focus: Prioritize top customers for retention strategies.
 Trend Monitoring: Track revenue growth over 2010 and 2011 to inform future planning.
 
 6. Screenshots / Demos
-7. https://github.com/neelanshi-singh/Tata-Dashboard/blob/main/Snapshot.png
+7. ![Alt text](https://github.com/neelanshi-singh/Tata-Dashboard/blob/main/Snapshot.png)
+8. ![Dashboard Preview](https://github.com/neelanshi-singh/Tata-Dashboard/blob/main/Snapshot.png)
